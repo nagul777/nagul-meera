@@ -1,0 +1,66 @@
+:root{
+    --bg-color:white;
+}
+*{
+    padding: 0px;
+     margin:0px;
+    font-family: 'Roboto', sans-serif;
+}
+.main{
+    border:1px solid black;
+}
+.hero-wapper-info{
+    background-image: url("../image/background.png");
+}
+.c-info{
+    border: 1px solid white;
+    margin:0 15px;
+}
+.c-row-info-title{
+    font-size: 10px;
+    padding: 0 0 20px 0;
+    line-height: 18px;
+    font-weight: 600;
+}
+.c-row-info-heading{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 44px;
+    padding-bottom: 19px;
+}
+.c-row-info-text{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+}
+.c-row-svgs{
+    padding: 30px 0 20px 0;
+}
+.c-row-svgs-logo{
+    padding-right: 0px;
+}
+.c-row-cube-1 img{
+    width:82px;
+}
+/*
+.hero-wapper-another-background{
+    background-image: url("../image/back.png");
+}
+*/
+.information-card-one{
+    background: rgba(255, 255, 255, 0.6);
+box-shadow: inset 0px 0px 0px 0.5px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+padding: 20px;
+}
+.information-card-image{
+    background: linear-gradient(209.21deg, #D74165 13.57%, #D75141 98.38%);
+border-radius: 20px;
+}
+.information-card-two{
+    background: rgba(255, 255, 255, 0.6);
+    box-shadow: inset 0px 0px 0px 0.5px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding: 20px;
+}
+

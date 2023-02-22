@@ -1,0 +1,31 @@
+.c-row-info{
+    padding: 0 15px;
+}
+.c-row-png{
+    padding: 0 0 30px 0;
+}
+.c-row-content-info{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.c-row-title{
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+}
+.c-row-heading{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+}
+.c-row-text{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+}
+.c-row-search-bar{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
